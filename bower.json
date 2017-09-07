@@ -25,10 +25,10 @@
     "url": "git://github.com/bendavis78/moment-element.git"
   },
   "devDependencies": {
-    "paper-styles": "PolymerElements/paper-styles#^1.0.4",
-    "iron-component-page": "PolymerElements/iron-component-page#^1.0.0",
-    "test-fixture": "polymerelements/test-fixture#^1.0.0",
+    "paper-styles": "PolymerElements/paper-styles#1 - 2",
+    "iron-component-page": "PolymerElements/iron-component-page#1 - 2",
+    "test-fixture": "polymerelements/test-fixture#1 - 2",
     "web-component-tester": "*",
-    "webcomponentsjs": "webcomponents/webcomponentsjs#^0.7.0"
+    "webcomponentsjs": "webcomponents/webcomponentsjs#0 - 1"
   }
 }
